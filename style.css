@@ -1,0 +1,56 @@
+
+h1{   
+    padding-top: 150px;
+    text-align: center;
+}
+
+h2{ 
+    color: black; 
+    text-align: center;
+} 
+
+.inputWithIcon{  
+    width: 30%;
+    outline: none;
+    display: block;
+    position: relative;
+    margin: 0 auto; 
+}
+.input-field {     
+    margin: auto; 
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+.inputWithIcon input-field{
+    padding-right: 40px;
+  }
+
+.input-field:focus{
+    border-color: darkcyan;
+    box-shadow: 0 0 2px 0 darkcyan;
+}
+
+.inputWithIcon i{
+    position: absolute;
+    right:6px;
+    top: 1px;
+    padding: 9px 8px;
+    color: gray;
+}
+
+.inputWithIcon input-field:focus + i{
+    color:darkcyan;
+}
+
+#strength{
+    position: absolute;
+    right: 8px;
+    top: 9px;
+    padding: 0px 40px;
+
+
+}
+
