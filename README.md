@@ -13,4 +13,4 @@ Technologies used:
 * JavaScript Functions
 
 App demo
-https://debonyschmidt.github.io/javascript_PasswordRevealer_WithClass/
+https://debonyschmidt.github.io/javascript_PasswordRevealer_WithFunctions/
